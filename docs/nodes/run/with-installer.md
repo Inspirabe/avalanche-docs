@@ -20,7 +20,7 @@ hardware with the following minimum specifications.
 
 - CPU: Equivalent of 8 AWS vCPU
 - RAM: 16 GiB
-- Storage: 1 TiB
+- Storage: 1 TiB SSD
 - OS: Ubuntu 20.04 or MacOS &gt;= 12
 - Network: sustained 5Mbps up/down bandwidth
 
